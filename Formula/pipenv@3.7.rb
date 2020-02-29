@@ -1,4 +1,4 @@
-class Pipenv < Formula
+class PipenvAT37 < Formula
     include Language::Python::Virtualenv
   
     desc "Python dependency management tool"
